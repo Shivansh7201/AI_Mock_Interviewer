@@ -4,7 +4,7 @@ import Image from "next/image";
 export default function Home() {
   return (
   <div>
-    <h1>HELLO USER</h1>
+    <h1>_HELLO_USER_</h1>
     <Button>Subscribe</Button>
 
   </div>
